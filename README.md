@@ -1,8 +1,12 @@
-#### This project contains 3 files: main.py, object_helper.py, primitive_helper.py
+## :mortar_board: About
 
-#### There are 3 questions inside main.py that needs to be answered
+This project contains 3 files: main.py, object_helper.py, primitive_helper.py
 
-## Basic Terminologies:
+## :pushpin: Usage
+
+There are 3 questions inside main.py that needs to be answered
+
+### :bookmark_tabs: Basic Terminologies:
 
 # or '''''' are comments for human eyes only, computer will not act on them
 
