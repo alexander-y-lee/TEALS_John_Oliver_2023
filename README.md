@@ -8,7 +8,7 @@ There are 3 questions inside main.py that needs to be answered
 
 ### :bookmark_tabs: Basic Terminologies:
 
-# or '''''' are comments for human eyes only, computer will not act on them
+'''''' or # are comments for human eyes only, computer will not act on them
 
 CLASS = blueprint, or a design plan
 VARIABLE = a container, or a bucket
